@@ -1,4 +1,4 @@
-# Repository for Supplementary Material S2 from Medley, Goldberg and Karr
+# Repository for Supplementary Material S2 from Medley, Goldberg and Karr: Guidelines for reproducibly building and simulating systems biology models
 
 ## C++ / Boost instructions
 
