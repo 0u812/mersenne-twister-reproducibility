@@ -1,5 +1,10 @@
 # Repository for Supplementary Material S2 from Medley, Goldberg and Karr: Guidelines for reproducibly building and simulating systems biology models
 
+## Files
+* `mersenne.cpp`: C++ Mersenne Twister demo which uses Boost
+* `mersenne-modified.cpp`: Same as above but fully initializes internal state and reproduces Python's output
+* `mersenne.py`: Python Mersenne Twister demo
+
 ## C++ / Boost instructions
 
 * Obtain a copy of Boost 1.60.0 from www.boost.org
